@@ -25,6 +25,7 @@ ros2 run turtlesim turtlesim_node
 ```bash
 ros2 run turtle_duvar_py wall_avoider
 ```
-EKRAN GÖRÜNTÜSÜ
-![Uploading ekran.png…]()
+## Ekran Görüntüsü
+![Simülasyon](ekran.png)
+
 
